@@ -4,6 +4,7 @@ Data Science Portfolio
 ![Salah report](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index/blob/main/images/All%20Rounders.png)
 ## Key Findings
 1 - Statistically speaking, Mohamed Salah has been the best winger in the Premier League for the past 3 seasons. This is also backed by the general fan sentiment and the mainstream football opinion.
+
 2 - The next 3 in the list are all Manchester City players. No surprise here as City have dominated the Premier League and have one of the best goalscoring output not just in the league but also across Europe.
 3 - Phil Foden and Gabriel Martinelli are the only current U23 players to make the top 10 in the overall rankings.
 4 - Michael Olise ranked 3rd among the best U24 wingers over the last 3 seasons. Olise and Neto were the only 2 players who played for a non-top 6 club and finished in the top 10 (for U24s).
