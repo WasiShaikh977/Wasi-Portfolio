@@ -21,4 +21,4 @@ Data Science Portfolio
 
 ## Project 2: Underlying Performance Numbers of the top 6 Premier League Sides
 
-![](/images/Vardy.png)
+![](/images/Top%206%20updated.png)
