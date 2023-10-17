@@ -5,6 +5,7 @@ Data Science Portfolio
 ## Key Findings
 1 - Statistically speaking, Mohamed Salah has been the best winger in the Premier League for the past 3 seasons. This is also backed by the general fan sentiment and the mainstream football opinion.
 
+
 2 - The next 3 in the list are all Manchester City players. No surprise here as City have dominated the Premier League and have one of the best goalscoring output not just in the league but also across Europe.
 
 3 - Phil Foden and Gabriel Martinelli are the only current U23 players to make the top 10 in the overall rankings
