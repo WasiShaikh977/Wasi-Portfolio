@@ -1,6 +1,6 @@
 # Wasi's Data Analyst Portfolio
 
-Data Science Portfolio## [Project 1: Who is the best winger in the English Premier League?](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index)
+## [Project 1: Who is the best winger in the English Premier League?](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index)
 ![](/images/SalahReport.jpg)
 
 ### Key Findings
@@ -27,4 +27,4 @@ Data Science Portfolio## [Project 1: Who is the best winger in the English Premi
 
 ![](/images/Vardy.png)
 
-This is a Tableau Project.
+This is a Tableau Project. Please click on the link provided.
