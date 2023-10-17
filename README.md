@@ -1,5 +1,3 @@
-# Wasi's Data Analyst Portfolio
-
 ## [Project 1: Who is the best winger in the English Premier League?](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index)
 ![](/images/SalahReport.jpg)
 
