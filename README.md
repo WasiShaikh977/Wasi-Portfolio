@@ -28,3 +28,10 @@
 ![](/images/Vardy.png)
 
 This is a Tableau Project. Please click on the link provided.
+
+### Extras
+
+#### [Masters' Dissertation: How to score from a corner kick?] (https://medium.com/@wasi.ws453/analysis-of-attacking-corner-kicks-in-division-1-of-english-football-2f13766a30ab)
+
+![](/images/corner.png)
+
