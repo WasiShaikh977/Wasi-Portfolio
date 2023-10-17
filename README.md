@@ -1,7 +1,7 @@
 # Wasi-Portfolio
 Data Science Portfolio
 ## Who is the best winger in the English Premier League?
-![s]([https://github.com/WasiShaikh977/PL-Wingers-Weighted-index/blob/main/images/All%20Rounders.png](https://github.com/WasiShaikh977/Wasi-Portfolio/blob/main/images/Salah%20report.jpg))
+![s](/images/Salah%20report.jpg))
 
 ## Key Findings
 1 - Statistically speaking, Mohamed Salah has been the best winger in the Premier League for the past 3 seasons. This is also backed by the general fan sentiment and the mainstream football opinion.
