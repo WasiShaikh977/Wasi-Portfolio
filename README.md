@@ -1,9 +1,9 @@
 # Wasi-Portfolio
 Data Science Portfolio
-## Who is the best winger in the English Premier League?
+## Project 1: Who is the best winger in the English Premier League?
 ![sww](/images/Salah%20report.jpg))
 
-## Key Findings
+### Key Findings
 1 - Statistically speaking, Mohamed Salah has been the best winger in the Premier League for the past 3 seasons. This is also backed by the general fan sentiment and the mainstream football opinion.
 
 
@@ -18,3 +18,7 @@ Data Science Portfolio
 6 - The top 2 U-23 wingers last season were Bukayo Saka and Gabriel Martinelli, both of Arsenal. These 2 young men lead Arsenal's title challenge with their scintillating play. Bukayo Saka also earned the young player of the season award for his performances.
 
 7 - Julio Enciso made a mark in his first season in the PL ranking 3rd for U23s and 7th overall in the season 22-23.
+
+## Project 2: Underlying Performance Numbers of the top 6 Premier League Sides
+
+![](/images/Vardy.png)
