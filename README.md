@@ -12,7 +12,7 @@
 - Python is as key programming software for people looking to work in the field of Data Science or any other data related roles.
 - People with Python and Machine Learning skills stand a good chance of earning an above average salary (in relation to other data roles)
 - California, DC and New York came out as the best locations overall, taking into account the number of openings and the estimated salary.
-- Low to mid tier companies seem to be hiring a high number of people in data related jobs whereas the public companies are the ones offering the highest salaries
+- Low to mid tier companies seem to be hiring a high number of people in data related jobs whereas public companies are the ones offering the highest salaries
 
 
 ## [Project 2: Who is the best winger in the English Premier League?](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index)
