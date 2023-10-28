@@ -14,6 +14,11 @@
 - California, DC and New York came out as the best locations overall, taking into account the number of openings and the estimated salary.
 - Low to mid tier companies seem to be hiring a high number of people in data related jobs whereas public companies are the ones offering the highest salaries
 
+##### Modelling performance
+- Linear Regression: Extremely poor performance
+- Lasso: 15.68 MAE (Decent)
+- Random Forest: 10.06 MAE (Good)
+
 
 ## [Project 2: Who is the best winger in the English Premier League?](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index)
 ![](/images/SalahReport.jpg)
