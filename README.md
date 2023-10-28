@@ -42,11 +42,12 @@ In this project, we will handpick 21 of these KPIs and use statistical modelling
 ## [Project 3: Underlying Performance Numbers of the top 6 Premier League Sides](https://github.com/WasiShaikh977/Top-6-teams-xG-SMA/tree/main)
 
 ### Project Overview
+
+The goal of this study is to quantify underlying performance metricss of the top 6 teams in English Premier League to see how they have progressed/regressed since the start of the season 2019/2020 season
+
 Expected Goals (xG) is a statistical metric used in soccer to assess the quality of a scoring opportunity. It quantifies the likelihood that a shot will result in a goal based on historical data and various factors. For this study we will look at the difference between cumulative xG of a team and Expected Goals Against (xGA). xGA is the total xG value of all the shots conceded by a team, reflecting the expected goals their opponents could have scored. This difference is called the expected goal difference or xGD.
 
 We will look at the trends in Expected Goals Difference for the top 6 English Premier League teams since the start of season 2019/2020 upto gameweek 4 of season 23/24 (03/09/2023).
-
-The intention is to quantify the underlying performance metrics of the top 6 teams to see how they have progressed/regressed since the start of the season 2019/2020 season
 
 ![](/images/Top6updated.png)
 
