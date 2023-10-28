@@ -57,11 +57,21 @@ The intention is to quantify the underlying performance metrics of the top 6 tea
 - Liverpool challenged City's dominance in the 21/22 season but has since seen a decline.
 - Chelsea have been the worst-performing side in the sample.
 
-## [Project 4: Finding Vardy's Replacement](https://public.tableau.com/app/profile/wasiuddin.shaikh8022/viz/ReplacingJamieVardy/Story1) 
+## [Project 4: Finding Vardy's Replacement (Tableau project)](https://public.tableau.com/app/profile/wasiuddin.shaikh8022/viz/ReplacingJamieVardy/Story1) 
+
+### Project Overview
+
+In this project, I acted as a recruitment analyst for Leicester City Football Club (LCFC) and aimed to find a successor for their and England Natoinal team striker Jamie Vardy. I looked at Vardy's importance to LCFC starting from season 2015-2016 up until 2022-2023 (8 seasons), his style of play, how we compares to other strikers in the league, LCFC's transfer trends and multiple seasons player data from 3 different leagues (England Championship , French Ligue 1 and Italian Serie A) to draw out a shortlist of strikers to replace Jamie Vardy with.
+
+Similar to project 2, I created a weighted index metric to find the best strikers who are similar to Jamie Vardy in their playing style.
+
+### Key Findings
+- Statistically, Vardy has been one of the best strikers in the English Premier League. He profiled as a poacher- A striker who is not too involved in the game for the most part but is deadly in front of the goal.
+- 4 of the top 5 players in our shortlist played in Ligue 1.
+- Folarin Balogun (finished 2nd in our rankings) was my recommendation as the recruitment analyst taking into account all the variables (explained in the Tableau slides)
 
 ![](/images/Vardy.png)
 
-This is a Tableau Project. Please click on the link provided to take you to the presentation.
 
 ### Extras
 
