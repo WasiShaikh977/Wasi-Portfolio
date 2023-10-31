@@ -11,25 +11,25 @@ We had data from a chain of stores selling food items. The data was divided into
 ### Conclusion
 #### Key Insights
 
-1) Outlet **OUT027** is making the most amount of money.
+- Outlet **OUT027** is making the most amount of money.
 
-2) Outlet location tier 3 seem to make the most sales. Especially the combination of Tier 3 location and SuperMarket Type 3.
+- Outlet location tier 3 seem to make the most sales. Especially the combination of Tier 3 location and SuperMarket Type 3.
 
-3) Starchy foods and Dairy have high MRPs whereas Seafood and Starchy food seem to be making more sales on average.
+- Starchy foods and Dairy have high MRPs whereas Seafood and Starchy food seem to be making more sales on average.
 
-4) Grocery Stores have been the worst performers compared to all other supermarket types.
+- Grocery Stores have been the worst performers compared to all other supermarket types.
 
-5) Medium sized stores make the most amount of money followed by High and then Small. The mean MRP of the goods sold is nearly the same for all the sizes.
+- Medium sized stores make the most amount of money followed by High and then Small. The mean MRP of the goods sold is nearly the same for all the sizes.
 
 ### Model Performance
 The Deep Learning model turned out to be out best model with an RMSE of 1074.7. Both the deep learning models were identical in their performance.
 The top 3 models were as follows:
 
-1 - Deep Learning: RMSE 1074.7
+- Deep Learning: RMSE 1074.7
 
-2 - Optimized Random Forest Regressor: RMSE 1077.5
+- Optimized Random Forest Regressor: RMSE 1077.5
 
-3 - Gradient Boosted Decision Tree: RMSE 1082.5
+- Gradient Boosted Decision Tree: RMSE 1082.5
 
 ## [Project 2: Estimating the salary of a Data Scientist](https://github.com/WasiShaikh977/Data-Science-Salary-model)
 ![](/images/salary.png)
