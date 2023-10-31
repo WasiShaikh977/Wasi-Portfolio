@@ -10,10 +10,15 @@ We had data from a chain of stores selling food items. The data was divided into
 
 ### Conclusion
 #### Key Insights
+
 1) Outlet **OUT027** is making the most amount of money.
+
 2) Outlet location tier 3 seem to make the most sales. Especially the combination of Tier 3 location and SuperMarket Type 3.
+
 3) Starchy foods and Dairy have high MRPs whereas Seafood and Starchy food seem to be making more sales on average.
+
 4) Grocery Stores have been the worst performers compared to all other supermarket types.
+
 5) Medium sized stores make the most amount of money followed by High and then Small. The mean MRP of the goods sold is nearly the same for all the sizes.
 
 ### Model Performance
