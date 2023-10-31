@@ -19,6 +19,7 @@ We had data from a chain of stores selling food items. The data was divided into
 ### Model Performance
 The Deep Learning model turned out to be out best model with an RMSE of 1074.7. Both the deep learning models were identical in their performance.
 The top 3 models were as follows:
+
 1 - Deep Learning: RMSE 1074.7
 
 2 - Optimized Random Forest Regressor: RMSE 1077.5
