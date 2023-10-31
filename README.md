@@ -20,8 +20,11 @@ We had data from a chain of stores selling food items. The data was divided into
 The Deep Learning model turned out to be out best model with an RMSE of 1074.7. Both the deep learning models were identical in their performance.
 The top 3 models were as follows:
 1 - Deep Learning: RMSE 1074.7
+
 2 - Optimized Random Forest Regressor: RMSE 1077.5
+
 3 - Gradient Boosted Decision Tree: RMSE 1082.5
+
 ## [Project 1: Estimating the salary of a Data Scientist](https://github.com/WasiShaikh977/Data-Science-Salary-model)
 ![](/images/salary.png)
 
