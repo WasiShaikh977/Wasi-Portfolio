@@ -26,7 +26,7 @@ The top 3 models were as follows:
 
 3 - Gradient Boosted Decision Tree: RMSE 1082.5
 
-## [Project 1: Estimating the salary of a Data Scientist](https://github.com/WasiShaikh977/Data-Science-Salary-model)
+## [Project 2: Estimating the salary of a Data Scientist](https://github.com/WasiShaikh977/Data-Science-Salary-model)
 ![](/images/salary.png)
 
 ### Project Overview
@@ -48,7 +48,7 @@ The top 3 models were as follows:
 - Random Forest: 10.06 MAE (Good)
 
 
-## [Project 2: Who is the best winger in the English Premier League?](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index)
+## [Project 3: Who is the best winger in the English Premier League?](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index)
 ![](/images/SalahReport.jpg)
 
 ### Project Overview
@@ -72,7 +72,7 @@ In this project, we will handpick 21 of these KPIs and use statistical modelling
 - The top 2 U-23 wingers last season were Bukayo Saka and Gabriel Martinelli, both of Arsenal. These 2 young men led Arsenal's title challenge with their scintillating play. Bukayo Saka also earned the young player of the season award for his performances.
 - Julio Enciso made a mark in his first season in the PL ranking 3rd for U23s and 7th overall in the season 22-23.
 
-## [Project 3: Underlying Performance Numbers of the top 6 Premier League Sides](https://github.com/WasiShaikh977/Top-6-teams-xG-SMA/tree/main)
+## [Project 4: Underlying Performance Numbers of the top 6 Premier League Sides](https://github.com/WasiShaikh977/Top-6-teams-xG-SMA/tree/main)
 
 ### Project Overview
 
@@ -91,13 +91,13 @@ We will look at the trends in Expected Goals Difference for the top 6 English Pr
 - Liverpool challenged City's dominance in the 21/22 season but has since seen a decline.
 - Chelsea have been the worst-performing side in the sample.
 
-## [Project 4: Finding Vardy's Replacement (Tableau project)](https://public.tableau.com/app/profile/wasiuddin.shaikh8022/viz/ReplacingJamieVardy/Story1) 
+## [Project 5: Finding Vardy's Replacement (Tableau project)](https://public.tableau.com/app/profile/wasiuddin.shaikh8022/viz/ReplacingJamieVardy/Story1) 
 
 ### Project Overview
 
 In this project, I acted as a recruitment analyst for Leicester City Football Club (LCFC) and aimed to find a successor for their and England Natoinal team striker Jamie Vardy. I looked at Vardy's importance to LCFC starting from season 2015-2016 up until 2022-2023 (8 seasons), his style of play, how we compares to other strikers in the league, LCFC's transfer trends and multiple seasons player data from 3 different leagues (England Championship , French Ligue 1 and Italian Serie A) to draw out a shortlist of strikers to replace Jamie Vardy with.
 
-Similar to project 2, I created a weighted index metric to find the best strikers who are similar to Jamie Vardy in their playing style.
+Similar to project 3, I created a weighted index metric to find the best strikers who are similar to Jamie Vardy in their playing style.
 
 ### Key Findings
 - Statistically, Vardy has been one of the best strikers in the English Premier League. He profiled as a poacher- A striker who is not too involved in the game for the most part but is deadly in front of the goal.
