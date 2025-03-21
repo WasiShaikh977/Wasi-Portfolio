@@ -1,4 +1,28 @@
-## [Project 1: Sales Prediction Model](https://github.com/WasiShaikh977/Sales-Prediction-Model/tree/main)
+## [Project 1: Who is the best winger in the English Premier League? Python Project with live Tableau Dashboard](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index)
+![](/images/SalahReport.jpg)
+
+### Project Overview
+
+In modern football, tons of different metrics are used to determine how well a player does in certain aspects of the game. Goals, shots on target, goal conversion rate, etc, show you how good a player is at scoring goals. Whereas, other stats like key passes, assists, through passes, cross completion percentage, etc, point towards how good a player is at creating chances for her teammates. Hundreds of KPIs (Key point indicators) are used by football analysts and data scientists to objectify a player's performance.
+
+In this project, we will handpick 21 of these KPIs and use statistical modelling techniques to mesh all of them together into one metric. This is the Wingers Weigthted index. The higher the index, the better the player. We will create 4 such indexes (All rounder, Goalscorer, Creator, Dribbler). Different weights will be given to different metrics for the various indexes.
+- All Rounder index: Equally distributed weights as per a winger's requirements
+- Goalscorer index: More importance given to goalscoring metrics
+- Creator index: More importance given to chance creation metrics
+- Dribbler index: More importance given to dribbling metrics
+
+![](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index/blob/main/images/All%20Rounders.png)
+
+### Key Findings
+- Statistically speaking, Mohamed Salah has been the best winger in the Premier League for the past 3 seasons. This is also backed by the general fan sentiment and the mainstream football opinion.
+- The next 3 in the list are all Manchester City players. No surprise here as City have dominated the Premier League and have one of the best goalscoring output not just in the league but also across Europe.
+- Phil Foden and Gabriel Martinelli are the only current U23 players to make the top 10 in the overall rankings.
+- Michael Olise ranked 3rd among the best U24 wingers over the last 3 seasons. Olise and Neto were the only 2 players who played for a non-top 6 club and finished in the top 10 (for U24s).
+- Statistically, Gabriel Martinelli was the best U23 winger last season and the 2nd best overall pipping the likes of Jack Grealish, Phil Foden, Mahrez, et al. Salah was still number 1.
+- The top 2 U-23 wingers last season were Bukayo Saka and Gabriel Martinelli, both of Arsenal. These 2 young men led Arsenal's title challenge with their scintillating play. Bukayo Saka also earned the young player of the season award for his performances.
+- Julio Enciso made a mark in his first season in the PL ranking 3rd for U23s and 7th overall in the season 22-23.
+
+## [Project 2: Sales Prediction Model](https://github.com/WasiShaikh977/Sales-Prediction-Model/tree/main)
 ![](/images/DL_RMSE.png)
 
 ### Project Overview
@@ -31,7 +55,22 @@ The top 3 models were as follows:
 
 - Gradient Boosted Decision Tree: RMSE 1082.5
 
-## [Project 2: Estimating the salary of a Data Scientist](https://github.com/WasiShaikh977/Data-Science-Salary-model)
+## [Project 3: Finding Vardy's Replacement (Live Tableau Dashboard)](https://public.tableau.com/app/profile/wasiuddin.shaikh8022/viz/ReplacingJamieVardy/Story1) 
+
+### Project Overview
+
+In this project, I acted as a recruitment analyst for Leicester City Football Club (LCFC) and aimed to find a successor for their and England Natoinal team striker Jamie Vardy. I looked at Vardy's importance to LCFC starting from season 2015-2016 up until 2022-2023 (8 seasons), his style of play, how we compares to other strikers in the league, LCFC's transfer trends and multiple seasons player data from 3 different leagues (England Championship , French Ligue 1 and Italian Serie A) to draw out a shortlist of strikers to replace Jamie Vardy with.
+
+Similar to project 3, I created a weighted index metric to find the best strikers who are similar to Jamie Vardy in their playing style.
+
+### Key Findings
+- Statistically, Vardy has been one of the best strikers in the English Premier League. He profiled as a poacher- A striker who is not too involved in the game for the most part but is deadly in front of the goal.
+- 4 of the top 5 players in our shortlist played in Ligue 1.
+- Folarin Balogun (finished 2nd in our rankings) was my recommendation as the recruitment analyst taking into account all the variables (explained in the Tableau slides)
+
+![](/images/Vardy.png)
+
+## [Project 4: Estimating the salary of a Data Scientist](https://github.com/WasiShaikh977/Data-Science-Salary-model)
 ![](/images/salary.png)
 
 ### Project Overview
@@ -52,32 +91,7 @@ The top 3 models were as follows:
 - Lasso: 15.68 MAE (Decent)
 - Random Forest: 10.06 MAE (Good)
 
-
-## [Project 3: Who is the best winger in the English Premier League?](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index)
-![](/images/SalahReport.jpg)
-
-### Project Overview
-
-In modern football, tons of different metrics are used to determine how well a player does in certain aspects of the game. Goals, shots on target, goal conversion rate, etc, show you how good a player is at scoring goals. Whereas, other stats like key passes, assists, through passes, cross completion percentage, etc, point towards how good a player is at creating chances for her teammates. Hundreds of KPIs (Key point indicators) are used by football analysts and data scientists to objectify a player's performance.
-
-In this project, we will handpick 21 of these KPIs and use statistical modelling techniques to mesh all of them together into one metric. This is the Wingers Weigthted index. The higher the index, the better the player. We will create 4 such indexes (All rounder, Goalscorer, Creator, Dribbler). Different weights will be given to different metrics for the various indexes.
-- All Rounder index: Equally distributed weights as per a winger's requirements
-- Goalscorer index: More importance given to goalscoring metrics
-- Creator index: More importance given to chance creation metrics
-- Dribbler index: More importance given to dribbling metrics
-
-![](https://github.com/WasiShaikh977/PL-Wingers-Weighted-index/blob/main/images/All%20Rounders.png)
-
-### Key Findings
-- Statistically speaking, Mohamed Salah has been the best winger in the Premier League for the past 3 seasons. This is also backed by the general fan sentiment and the mainstream football opinion.
-- The next 3 in the list are all Manchester City players. No surprise here as City have dominated the Premier League and have one of the best goalscoring output not just in the league but also across Europe.
-- Phil Foden and Gabriel Martinelli are the only current U23 players to make the top 10 in the overall rankings.
-- Michael Olise ranked 3rd among the best U24 wingers over the last 3 seasons. Olise and Neto were the only 2 players who played for a non-top 6 club and finished in the top 10 (for U24s).
-- Statistically, Gabriel Martinelli was the best U23 winger last season and the 2nd best overall pipping the likes of Jack Grealish, Phil Foden, Mahrez, et al. Salah was still number 1.
-- The top 2 U-23 wingers last season were Bukayo Saka and Gabriel Martinelli, both of Arsenal. These 2 young men led Arsenal's title challenge with their scintillating play. Bukayo Saka also earned the young player of the season award for his performances.
-- Julio Enciso made a mark in his first season in the PL ranking 3rd for U23s and 7th overall in the season 22-23.
-
-## [Project 4: Underlying Performance Numbers of the top 6 Premier League Sides](https://github.com/WasiShaikh977/Top-6-teams-xG-SMA/tree/main)
+## [Project 5: Underlying Performance Numbers of the top 6 Premier League Sides](https://github.com/WasiShaikh977/Top-6-teams-xG-SMA/tree/main)
 
 ### Project Overview
 
@@ -95,21 +109,6 @@ We will look at the trends in Expected Goals Difference for the top 6 English Pr
 - Arsenal have shown significant improvement in performance during the study timeframe.
 - Liverpool challenged City's dominance in the 21/22 season but has since seen a decline.
 - Chelsea have been the worst-performing side in the sample.
-
-## [Project 5: Finding Vardy's Replacement (Tableau project)](https://public.tableau.com/app/profile/wasiuddin.shaikh8022/viz/ReplacingJamieVardy/Story1) 
-
-### Project Overview
-
-In this project, I acted as a recruitment analyst for Leicester City Football Club (LCFC) and aimed to find a successor for their and England Natoinal team striker Jamie Vardy. I looked at Vardy's importance to LCFC starting from season 2015-2016 up until 2022-2023 (8 seasons), his style of play, how we compares to other strikers in the league, LCFC's transfer trends and multiple seasons player data from 3 different leagues (England Championship , French Ligue 1 and Italian Serie A) to draw out a shortlist of strikers to replace Jamie Vardy with.
-
-Similar to project 3, I created a weighted index metric to find the best strikers who are similar to Jamie Vardy in their playing style.
-
-### Key Findings
-- Statistically, Vardy has been one of the best strikers in the English Premier League. He profiled as a poacher- A striker who is not too involved in the game for the most part but is deadly in front of the goal.
-- 4 of the top 5 players in our shortlist played in Ligue 1.
-- Folarin Balogun (finished 2nd in our rankings) was my recommendation as the recruitment analyst taking into account all the variables (explained in the Tableau slides)
-
-![](/images/Vardy.png)
 
 
 ### Extras
